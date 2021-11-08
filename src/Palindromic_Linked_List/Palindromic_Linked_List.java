@@ -68,7 +68,6 @@ public class Palindromic_Linked_List {
             current = next;
         }
         return prev;
-
     }
 
     public static boolean isPalindromeLinkedList_Approach2(ListNode head) {
