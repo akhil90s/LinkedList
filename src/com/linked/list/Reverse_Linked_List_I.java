@@ -1,7 +1,5 @@
 package com.linked.list;
 
-import java.util.List;
-
 public class Reverse_Linked_List_I {
 
     public static void main(String[] args) {
